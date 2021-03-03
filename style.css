@@ -1,0 +1,9 @@
+#official-info {
+  background-color: rgb(140, 0, 255);
+  width: 100%;
+  overflow: auto;
+}
+#headers {
+  background-color: black;
+  color: blue;
+}
